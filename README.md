@@ -83,9 +83,9 @@ I specialize in architecting, developing, and deploying full-stack applications 
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Your LinkedIn URL]
-- Upwork: [Your Upwork Profile URL]
-- Email: [your-email@example.com]
+- LinkedIn: https://www.linkedin.com/in/matiullah31
+- Upwork: https://www.upwork.com/freelancers/matiullah8
+- Email: matiullah0307@gmail.com
 
 ---
 
